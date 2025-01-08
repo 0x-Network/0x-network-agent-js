@@ -31,7 +31,7 @@ class AgentQuery{
 
 // Let's execute it now
 
-const API_KEY = "OThVNDFvV0p4TGs1aUJXR2dKRWRkNEdyZjVSNDNoRE5KVGJ6Z1VxMTZmeVg=";
+const API_KEY = "YourAPI";
 const AGENT_ID = 11;
 // Instanciate the agent
 const agentQuery = new AgentQuery(API_KEY, AGENT_ID);
